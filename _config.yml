@@ -3,7 +3,7 @@ title:               Dylan Henrich
 tagline:             'hobbyist'
 description:         'hobbyist coder.'
 url:                 https://hierocles.github.io
-baseurl:             ''
+baseurl:             'https://hierocles.github.io'
 paginate:            5
 permalink:           pretty
 
