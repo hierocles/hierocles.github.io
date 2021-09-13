@@ -1,0 +1,22 @@
+# Setup
+title:               Dylan Henrich
+tagline:             'hobbyist'
+description:         'hobbyist coder.'
+url:                 http://hierocles.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Dylan Henrich
+  url:               https://hierocles.github.io
+  email:             4733259+hierocles@users.noreply.github.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
